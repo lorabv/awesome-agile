@@ -1,0 +1,3 @@
+## Backlog
+
+- [28 Product Backlog and Refinement Anti-Patterns](https://age-of-product.com/28-product-backlog-anti-patterns/)
