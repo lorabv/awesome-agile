@@ -29,6 +29,7 @@ Awesome List of resources on agile software development.
     - [Domain Driven Design (DDD)](Domain-Driven-Design-DDD.md)
     - [InnerSource](InnerSource.md)
     - [Pair Programming](Pair-Programming.md)
+    - [Refactoring](Refactoring.md)
     - [Test Driven Development (TDD)](Test-Driven-Development-TDD.md)
     - [Technical Debt](Technical-Debt.md)
 
