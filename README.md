@@ -53,6 +53,7 @@ Awesome List of resources on agile software development.
     - [Daily Standup Meeting](Daily-Standup-Meeting.md)
     - [Retrospectives](Retrospectives.md)
     - [Sprint Demo](Sprint-Demo.md)
+    - [Sprint Planning](Sprint-Planning.md)
 
 
 - [Antipatterns](Antipatterns.md)

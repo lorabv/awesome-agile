@@ -8,4 +8,6 @@
 
 - [Dark Scrum](http://ronjeffries.com/articles/016-09ff/defense/) - by Ron Jeffries
 
+- [Scrum: 19 Sprint Planning Anti-Patterns](https://productcoalition.com/scrum-19-sprint-planning-anti-patterns-caabc44429b3) - by Stefan Wolpers
+
 - [Zombie Scrum - Symptoms, Causes and Treatment](https://www.linkedin.com/pulse/zombie-scrum-symptoms-causes-treatment-barry-overeem) - by Barry Overeem
