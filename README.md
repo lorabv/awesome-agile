@@ -27,6 +27,7 @@ Awesome List of resources on agile software development.
     - [Code Review](Code-Review.md)
     - [Continuous Delivery](Continuous-Delivery.md)
     - [Domain Driven Design (DDD)](Domain-Driven-Design-DDD.md)
+    - [InnerSource](InnerSource.md)
     - [Pair Programming](Pair-Programming.md)
     - [Test Driven Development (TDD)](Test-Driven-Development-TDD.md)
     - [Technical Debt](Technical-Debt.md)
