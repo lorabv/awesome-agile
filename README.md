@@ -26,7 +26,7 @@ Awesome List of resources on agile software development.
     - [Agile Engineering Self Assessment](http://wall-skills.com/2016/agile-engineering-self-assessment/)
     - [Code Review](Code-Review.md)
     - [Continuous Delivery](Continuous-Delivery.md)
-    - [Domain Driven Design (DDD)](Domain-driven-Design-DDD.md)
+    - [Domain Driven Design (DDD)](Domain-Driven-Design-DDD.md)
     - [Pair Programming](Pair-Programming.md)
     - [Test Driven Development (TDD)](Test-Driven-Development-TDD.md)
     - [Technical Debt](Technical-Debt.md)
