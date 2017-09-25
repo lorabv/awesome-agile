@@ -59,7 +59,7 @@ Awesome List of resources on agile software development.
 
 - [Decisions](Decisions.md)
 
-- [Objectives and Key Results (OKRs)](Objectives-and-Key-Results-OKRs.md)
+- [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
 
 - [Management 3.0](Management-3.0.md)
 
