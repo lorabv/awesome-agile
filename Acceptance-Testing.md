@@ -1,7 +1,11 @@
-## A/B Testing
+## Acceptance Testing
 
-- [How A/B Testing at LinkedIn, Wealthfront and eBay Made Me a Better Manager](http://firstround.com/review/how-a-b-testing-at-linkedin-wealthfront-and-ebay-made-me-a-better-manager/)
+- [Automated Acceptance Testing from Scratch](https://www.youtube.com/watch?v=po61tQbSIRY) - Video
 
-- [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) - by Jessie Chen
+- [Automated acceptance tests: where to start?](https://medium.com/the-making-of-appear-in/automated-acceptance-tests-from-where-to-start-bb747c49a401) - by Walmyr Filho
 
-- [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) - by Steve Urban, Rangarajan Sreenivasan and Vineet Kannan
+- [Behind-the-Scenes: How We’re Automating Acceptance Testing](https://deliciousbrains.com/how-were-automating-acceptance-testing/) - by Ian
+
+- [The 10 Do’s, and 500* Don’ts of Automated Acceptance Testing](https://watirmelon.blog/2015/11/20/the-10-dos-and-500-donts-of-automated-acceptance-testing/) - by Alister Scott
+
+- [The Automated Acceptance Testing Paradox](https://dojo.ministryoftesting.com/lessons/the-automated-acceptance-testing-paradox-mark-winteringham) - by Mark Winteringham
