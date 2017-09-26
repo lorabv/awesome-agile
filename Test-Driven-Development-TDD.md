@@ -4,6 +4,8 @@
 
 - [Empirical Studies Show Test Driven Development Improves Quality](https://www.infoq.com/news/2009/03/TDD-Improves-Quality) - by Chris Sims
 
+- [Ian Cooper: TDD, where did it all go wrong](https://vimeo.com/68375232) - Video
+
 - [Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) - Video
 
 - [Test Driven Development (TDD): Example Walkthrough](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/) - by Viktor Farcic
