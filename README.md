@@ -25,7 +25,7 @@ Awesome List of resources on agile software development.
     - [Acceptance Testing](Acceptance-Testing.md)
     - [Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo&t=12s)
     - [Agile Engineering Self Assessment](http://wall-skills.com/2016/agile-engineering-self-assessment/)
-    - [Behaviour Driven Design (BDD)](Behaviour-Driven-Design-BDD.md)
+    - [Behaviour Driven Development (BDD)](Behaviour-Driven-Development-BDD.md)
     - [Code Review](Code-Review.md)
     - [Continuous Delivery](Continuous-Delivery.md)
     - [Domain Driven Design (DDD)](Domain-Driven-Design-DDD.md)
