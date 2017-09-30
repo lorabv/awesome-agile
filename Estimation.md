@@ -12,6 +12,8 @@
 
 - [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - by  Joshua Kerievsky
 
+- [The #NoEstimates Debate: An Unbiased Look at the Origins, Arguments, and Thought Leaders Behind the Movement](https://techbeacon.com/noestimates-debate-unbiased-look-origins-arguments-thought-leaders-behind-movement) - by Malcolm Isaacs
+
 - [The Practical Realities of Software Estimation](http://www.disciplinedagiledelivery.com/software-guesstimation/) - by Scott Ambler
 
 - [Why Estimation in Software Development is Usually Terrible](https://m.coderdan.co/why-estimation-in-software-development-is-usually-terrible-2d032161bc6) - by Dan Draper
