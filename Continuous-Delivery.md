@@ -7,3 +7,5 @@
 ### Books
 
 - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) - by Jez Humble and David Farley
+
+- [Continuous Delivery Stories](https://www.infoq.com/minibooks/emag-continuous-delivery-stories) - by InfoQ
