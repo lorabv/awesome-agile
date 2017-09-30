@@ -21,3 +21,5 @@
 ### Books
 
 - [Agile Estimating and Planning](https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning) - by Mike Cohn
+
+- [Agile Project Estimation and Planning](https://www.infoq.com/minibooks/emag-agile-estimation) - by InfoQ
