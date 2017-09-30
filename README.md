@@ -58,8 +58,10 @@ Awesome List of resources on agile software development.
     - [Sprint Demo](Sprint-Demo.md)
     - [Sprint Planning](Sprint-Planning.md)
 
-
-- [Antipatterns](Antipatterns.md)
+- Agile Adoption
+    - [Antipatterns](Antipatterns.md)
+    - [Case Studies](Case-Studies.md)
+    - [Patterns](Agile-Adoption-Patterns.md)
 
 - [Metrics](Metrics.md)
 
@@ -68,8 +70,6 @@ Awesome List of resources on agile software development.
 - [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
 
 - [Management 3.0](Management-3.0.md)
-
-- [Case Studies](Case-Studies.md)
 
 - Agile Blogs and Podcasts
     - [The Agile Revolution Podcast | The Podcast That Is Everything Agile, Lean and Kanban](https://theagilerevolution.com/)
