@@ -20,4 +20,8 @@
 
 - [Three Mistakes Scrum Masters Make and How to Correct Them](https://www.linkedin.com/pulse/three-mistakes-scrum-masters-make-how-correct-them-mike-cohn) - by Mike Cohn
 
-- [Viewing the Scrum Master as a Team Member](http://www.spikesandstories.com/viewing-scrum-master-team-member/) by Tanner
+- [Viewing the Scrum Master as a Team Member](http://www.spikesandstories.com/viewing-scrum-master-team-member/) - by Tanner
+
+### Books
+
+- [Confessions of a Scrum Master](https://www.infoq.com/minibooks/confessions-scrum-master) - by Paul VII
