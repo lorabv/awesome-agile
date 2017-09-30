@@ -32,3 +32,7 @@
 
 - [Your Agile Journey with the Backpacking Retrospective Exercise](https://www.benlinders.com/2017/agile-journey-backpacking-retrospective-exercise/) - by Ben Linders
 
+### Books
+
+- [Getting Value out of Agile Retrospectives](https://www.infoq.com/minibooks/agile-retrospectives-value) - by Luis Gonçalves and Ben Linders
+
