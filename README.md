@@ -11,6 +11,7 @@ Awesome List of resources on agile software development.
     - [Agile Mindset](https://www.cio.com.au/article/609763/more-agile-need-mindsets-change/)
 
 - Key Agile Concepts
+    - [Extreme Programming (XP)](Extreme-Programming-XP.md)
     - [Kanban](Kanban.md)
     - [Lean](Lean.md)
     - [Scrum](Scrum.md)
