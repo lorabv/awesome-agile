@@ -17,3 +17,7 @@
 - [The Practical Realities of Software Estimation](http://www.disciplinedagiledelivery.com/software-guesstimation/) - by Scott Ambler
 
 - [Why Estimation in Software Development is Usually Terrible](https://m.coderdan.co/why-estimation-in-software-development-is-usually-terrible-2d032161bc6) - by Dan Draper
+
+### Books
+
+- [Agile Estimating and Planning](https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning) - by Mike Cohn
