@@ -5,3 +5,7 @@
 - [You’re Using “Technical Debt” Wrong](https://www.solutionsiq.com/resource/agile-amped-podcast/doc-norton-sez-youre-using-technical-debt-wrong-at-agile2016/) - Video
 
 - [Technical Debt Wall Retrospective](http://fabiopereira.me/blog/2009/09/01/technical-debt-retrospective/) - by Fabio Pereira
+
+### Books
+
+- [Technical Debt and Software Craftsmanship](https://www.infoq.com/minibooks/emag-technical-debt) - by InfoQ
