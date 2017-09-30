@@ -1,5 +1,7 @@
 ## Metrics
 
+- [Agile Metrics by Spotify. Squad Health Checkup](https://medium.com/@joentakanen/agile-metrics-by-spotify-4c8653f6984) - by Tommi Joentakanen
+
 - [Burndown Chart - the Ultimate Guide for Every Scrum Master](https://luis-goncalves.com/burndown-chart-ultimate-guide/) - by Luís Gonçalves
 
 - [Do you want Crappy Agile? Metrics. Maybe we should just say no.](http://ronjeffries.com/articles/016-03/you-want/) - by Ron Jeffries
