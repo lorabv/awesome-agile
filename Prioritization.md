@@ -2,6 +2,8 @@
 
 - [20 Product Prioritization Techniques: A Map and Guided Tour](https://foldingburritos.com/product-prioritization-techniques/)- by Daniel Zacarias
 
+- [Enter The Matrix – Lean Prioritisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) - by Andy Wicks
+
 - [Product Strategy Means Saying No](https://blog.intercom.com/product-strategy-means-saying-no/) - by Des Traynor
 
 - [This Product Prioritization System Nabbed Pandora 70 Million Monthly Users with Just 40 Engineers](http://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/) - by First Round Review
