@@ -16,6 +16,8 @@
 
 - [Resources to Evolve Your A/B Testing Skills](https://medium.com/@caraharshman/resources-to-evolve-your-a-b-testing-skills-ff60a885f12) - by Cara Harshman
 
+- [Stepping up Your A/B Tests](https://www.mindtheproduct.com/2017/07/stepping-ab-tests/) - by Kevin Shanahan
+
 - [The Ultimate Guide To A/B Testing](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/) - by Paras Chopra
 
 - [The Tenets of A/B Testing from Duolingo’s Master Growth Hacker](http://firstround.com/review/the-tenets-of-a-b-testing-from-duolingos-master-growth-hacker/) - by First Round Review
