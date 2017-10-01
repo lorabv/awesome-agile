@@ -43,11 +43,10 @@ Awesome List of resources on agile software development.
 
 - Product
     - [A/B Testing](A-B-Testing.md)
-    - [Agile Product Roadmap](Agile-Product-Roadmap.md)
     - [Design Thinking](Design-Thinking.md)
-    - [Prioritization](Prioritization.md)
     - [Product Backlog](Product-Backlog.md)
     - [Product Management](Product-Management.md)
+    - [Product Roadmap and Prioritisation](Product-Roadmap-And-Prioritisation.md)    
     - [Minimum Viable Product (MVP)](Minimum-Viable-Product-MVP.md)
 
 - User Stories and Estimation
