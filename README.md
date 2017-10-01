@@ -46,7 +46,7 @@ Awesome List of resources on agile software development.
     - [Design Thinking](Design-Thinking.md)
     - [Product Backlog](Product-Backlog.md)
     - [Product Management](Product-Management.md)
-    - [Product Roadmap and Prioritisation](Product-Roadmap-And-Prioritisation.md)    
+    - [Product Roadmap and Prioritisation](Product-Roadmap-and-Prioritisation.md)    
     - [Minimum Viable Product (MVP)](Minimum-Viable-Product-MVP.md)
 
 - User Stories and Estimation
