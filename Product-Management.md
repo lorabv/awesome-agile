@@ -9,3 +9,7 @@
 - [How to Survive the Hardest Part of Product Management by Janna Bastow](https://www.mindtheproduct.com/2017/09/survive-hardest-part-product-management-janna-bastow/) - by Martin Eriksson
 
 - [Top 7 Agile Tips I learnt as a Product Manager](https://www.youtube.com/watch?v=v7bNTqMlq-E) - by Benjamin Mitchell (Video)
+
+### Books
+
+- [Intercom on Product Management](https://www.intercom.com/books/product-management) - by Intercom
