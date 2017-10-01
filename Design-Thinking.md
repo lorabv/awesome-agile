@@ -4,6 +4,8 @@
 
 - [Design Thinking](https://hbr.org/2008/06/design-thinking) - by Tim Brown
 
+- [Design Thinking – From Idea to Product](https://www.mindtheproduct.com/2017/01/design-thinking-idea-product) - by Chris Massey
+
 - [Design Thinking for Business Example](https://medium.com/@cwodtke/lets-take-an-example-i-have-been-a-part-of-many-many-times-a-reorg-fa4cb6e48853) - by Christina Wodtke
 
 - [Design Thinking Lessons from Our Cats](https://hackernoon.com/design-thinking-lessons-from-our-cats-9a43fd71457a) - by Thryn
