@@ -6,6 +6,8 @@
 
 - [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10) - by John Cutler
 
+- [How to become better at software estimations](https://medium.com/code-runners-blog/how-to-become-better-at-software-estimations-part-2-fb286a9d496a) -  by Rumen Manev
+
 - [Pointing Poker](https://www.pointingpoker.com/)
 
 - [SE-Radio Episode 273: Steve McConnell on Software Estimation](http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/) - Podcast
