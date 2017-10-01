@@ -4,6 +4,8 @@
 
 - [7 Lean Metrics to Improve Flow](https://leankit.com/learn/kanban/lean-flow-metrics/)
 
+- [Being Lean: Don’t Speculate to Accumulate, Validate to Succeed](https://www.mindtheproduct.com/2017/08/lean-dont-speculate-accumulate-validate-succeed/) - by Andy Wicks
+
 - [Enter The Matrix – Lean Prioritisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) - by Andy Wicks
 
 - [Lean Coffee in the Workplace](http://agilecoffee.com/lean-coffee-in-the-workplace/) - by Victor ‘Vic’ Bonacci
