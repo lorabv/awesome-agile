@@ -2,6 +2,8 @@
 
 - [10 Tips for Creating an Agile Product Roadmap](https://medium.com/@romanpichler/10-tips-for-creating-an-agile-product-roadmap-515637c8081b#.y413bsegz) - by Roman Pichler
 
+- [#now, #next, #later: Roadmaps without the Drudgery](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645) - by Noah Weiss
+
 - [Agile Roadmapping: How To Think Big, Ship Fast And Always Keep Moving](https://blog.trello.com/agile-roadmapping-how-to-think-big-ship-fast) - by Janna Bastow
 
 - [Putting your users first with problem-centric roadmaps](https://www.youtube.com/watch?v=aOupk_34uRE) - by Janna Bastow
