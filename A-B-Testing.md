@@ -2,15 +2,15 @@
 
 - [A Refresher on A/B Testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) - by Amy Gallo
 
-- [An ultimate guide to A/B testing on prototypes.](https://uxplanet.org/an-ultimate-guide-to-a-b-testing-on-pre-live-apps-4bd57679e8cc)
+- [An Ultimate Guide to A/B Testing on Prototypes.](https://uxplanet.org/an-ultimate-guide-to-a-b-testing-on-pre-live-apps-4bd57679e8cc)
 
 - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) - by Jan Overgoor
 
 - [How A/B Testing at LinkedIn, Wealthfront and eBay Made Me a Better Manager](http://firstround.com/review/how-a-b-testing-at-linkedin-wealthfront-and-ebay-made-me-a-better-manager/)
 
-- [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) - by Jessie Chen
+- [How Netflix Does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) - by Jessie Chen
 
-- [How we lost (and found) millions by not A/B testing](https://signalvnoise.com/posts/3945-how-we-lost-and-found-millions-by-not-ab-testing) - by Noah Lorang
+- [How We Lost (and Found) Millions by Not A/B Testing](https://signalvnoise.com/posts/3945-how-we-lost-and-found-millions-by-not-ab-testing) - by Noah Lorang
 
 - [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) - by Steve Urban, Rangarajan Sreenivasan and Vineet Kannan
 
