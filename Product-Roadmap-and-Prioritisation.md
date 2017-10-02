@@ -10,6 +10,8 @@
 
 - [Enter The Matrix – Lean Prioritisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) - by Andy Wicks
 
+- [Here’s the Exact, Step-by-Step Process That Asana Uses to Build Their Product Roadmap](https://www.codementor.io/blog/how-to-build-a-product-roadmap-the-asana-way-2kvo8z70dm) - by Ariel Rule
+
 - [How We Build Our Product Roadmap at Asana](https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad) - by Jackie Bavaro
 
 - [Putting Your Users First with Problem-Centric Roadmaps](https://www.youtube.com/watch?v=aOupk_34uRE) - by Janna Bastow
