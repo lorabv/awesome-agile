@@ -6,6 +6,8 @@
 
 - [Scrum, A Brief Look into Using the Scrum Framework for Software Development](https://www.atlassian.com/agile/scrum)
 
+- [Scrum and Kanban: Make Your Teams Better by Busting Common Myths](https://www.scrum.org/resources/scrum-and-kanban-make-your-teams-better-busting-common-myths) - by Steve Porter and Daniel Vacanti. Webinar
+
 - [Scrum in 5 Minutes](http://stephenwalther.com/archive/2012/08/17/scrum-in-5-minutes) - by Stephen Walther
 
 - [The Scrum Guide™](http://www.scrumguides.org/scrum-guide.html)
