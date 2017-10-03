@@ -4,6 +4,8 @@
 
 - [Kanban, Can’tban, and Risky Visualizations](https://medium.com/@johnpcutler/kanban-cannotban-and-risky-visualizations-e19d83b53718) - by John Cutler
 
+- [Scrum and Kanban: Make Your Teams Better by Busting Common Myths](https://www.scrum.org/resources/scrum-and-kanban-make-your-teams-better-busting-common-myths) - by Steve Porter and Daniel Vacanti. Webinar
+
 - [Tutorial - Tracking a Kanban Team](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/jira-agile-tutorials/tutorial-tracking-a-kanban-team)
 
 ### Books
