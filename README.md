@@ -44,6 +44,7 @@ Awesome List of resources on agile software development.
 - Product
     - [A/B Testing](A-B-Testing.md)
     - [Design Thinking](Design-Thinking.md)
+    - [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
     - [Product Backlog](Product-Backlog.md)
     - [Product Management](Product-Management.md)
     - [Product Roadmap and Prioritisation](Product-Roadmap-and-Prioritisation.md)    
@@ -66,7 +67,6 @@ Awesome List of resources on agile software development.
     
 - Agile Metrics
     - [Metrics](Metrics.md)
-    - [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
 
 - Agile Leadership
     - [Decisions](Decisions.md)
