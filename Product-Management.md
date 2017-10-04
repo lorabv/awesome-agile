@@ -12,7 +12,7 @@
 
 - [The Product Management Hierarchy of Needs](https://medium.com/product-problems/the-product-management-hierarchy-of-needs-1003b6c439d2) - by Joe Dempsey
 
-- [Top 7 Agile Tips I learnt as a Product Manager](https://www.youtube.com/watch?v=v7bNTqMlq-E) - by Benjamin Mitchell (Video)
+- [Top 7 Agile Tips I Learnt as a Product Manager](https://www.youtube.com/watch?v=v7bNTqMlq-E) - by Benjamin Mitchell (Video)
 
 ### Books
 
