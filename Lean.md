@@ -10,6 +10,8 @@
 
 - [Lean Coffee in the Workplace](http://agilecoffee.com/lean-coffee-in-the-workplace/) - by Victor ‘Vic’ Bonacci
 
+### Books
+
 - [Lean Enterprise: How High Performance Organizations Innovate at Scale](http://barryoreilly.com/lean-enterprise/) - by Jez Humble, Joanne Molesky and Barry O’Reilly
 
 - [Lean UX: Applying Lean Principles to Improve User Experience](http://www.jeffgothelf.com/lean-ux-book/) - by Jeff Gothelf with Josh Seiden
