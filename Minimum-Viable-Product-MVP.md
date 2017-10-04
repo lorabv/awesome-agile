@@ -2,6 +2,8 @@
 
 - [A Better Alternative to MVP Product Development](https://viewpoints.matrixpartners.com/a-better-alternative-to-mvp-product-development-6f0f61d6027b) - by Karthik Sridharan
 
+-[David Hussman on Effective Product Discovery and Dude’s Law](https://www.infoq.com/podcasts/david-hussman) - Podcast with David Hussman by Shane Hastie
+
 - [Making Sense of MVP (Minimum Viable Product) – and Why I Prefer Earliest Testable/Usable/Lovable](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) - by Henrik Kniberg
 
 - [Minimum Valuable Problem](http://tynerblain.com/blog/2016/07/22/minimum-valuable-problem/) - by Scott Sehlhorst
