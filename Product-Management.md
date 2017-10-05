@@ -1,5 +1,7 @@
 ## Product Management
 
+- [11 Ways I Visualize Product Development Work](https://hackernoon.com/11-ways-i-visualize-product-development-work-f32aee3fcbf7) - by John Cutler
+
 - [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2) - by John Cutler
 
 - [7 Brilliant Little Skills To Master Your Role As A Product Manager](https://www.prodpad.com/blog/essential-skills-for-product-manager-roles/) - by Janna Bastow
