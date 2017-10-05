@@ -11,3 +11,5 @@
 - [Split User Stories Ruthlessly - And Get Value Earlier](http://mikeborozdin.com/post/split-user-stories-get-value-early/) - by Mike Borozdin
 
 - [Splitting user stories -- the hamburger method](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - by Gojko Adzic
+
+- [Twenty Ways to Split Stories](http://xp123.com/articles/twenty-ways-to-split-stories/) - by Bill Wake
