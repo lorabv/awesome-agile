@@ -4,6 +4,8 @@
 
 - [How to Split a User Story](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf)
 
+- [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) - by Bill Wake
+
 - [Slicing User Stories, Delivering Value](https://www.linkedin.com/pulse/slicing-user-stories-delivering-value-ellen-gottesdiener) - by Ellen Gottesdiener
 
 - [Split User Stories Ruthlessly - And Get Value Earlier](http://mikeborozdin.com/post/split-user-stories-get-value-early/) - by Mike Borozdin
