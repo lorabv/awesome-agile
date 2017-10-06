@@ -1,4 +1,4 @@
-## Code Review
+## Code Reviews
 
 - [Code Reviews in an Agile, Fast-Paced Environment](https://hackernoon.com/code-reviews-in-an-agile-fast-paced-environment-464d5e6ec860) - by Farnoosh Azadi
 
