@@ -32,6 +32,8 @@
 
 - [Technical Debt Wall Retrospective](http://fabiopereira.me/blog/2009/09/01/technical-debt-retrospective/) - by Fabio Pereira
 
+- [The Happy Marriage of Retrospectives and Software Evolution](http://www.empear.com/blog/happy-marriage-of-retrospective-and-software-evolution/) - by Adam Tornhill
+
 - [Your Agile Journey with the Backpacking Retrospective Exercise](https://www.benlinders.com/2017/agile-journey-backpacking-retrospective-exercise/) - by Ben Linders
 
 ### Books
