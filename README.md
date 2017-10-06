@@ -51,7 +51,7 @@ Awesome List of resources on agile software development.
     - [Minimum Viable Product (MVP)](Minimum-Viable-Product-MVP.md)
 
 - User Stories and Estimation
-    - [Epic](Epic.md)
+    - [Epics](Epic.md)
     - [User Stories](User-Stories.md)
     - [Story Splitting](Story-Splitting.md)
     - [Story Mapping](Story-Mapping.md)
@@ -60,7 +60,7 @@ Awesome List of resources on agile software development.
 
 - Agile Ceremonies
     - [Backlog Refinement](Backlog-Refinement.md)
-    - [Daily Standup Meeting](Daily-Standup-Meeting.md)
+    - [Daily Standup](Daily-Standup-Meeting.md)
     - [Retrospectives](Retrospectives.md)
     - [Sprint Demo](Sprint-Demo.md)
     - [Sprint Planning](Sprint-Planning.md)
@@ -73,11 +73,11 @@ Awesome List of resources on agile software development.
     - [Management 3.0](Management-3.0.md)
 
 - Agile Blogs and Podcasts
-    - [The Agile Revolution Podcast | The Podcast That Is Everything Agile, Lean and Kanban](https://theagilerevolution.com/)
+    - [The Agile Revolution Podcast - The Podcast That Is Everything Agile, Lean and Kanban](https://theagilerevolution.com/)
     - [J.D. Meier's Blog - Agile Results, Digital Business Transformation, and Program Management](https://blogs.msdn.microsoft.com/jmeier/)
     - [Agile Archives - Atlassian Blog](https://www.atlassian.com/blog/agile)
     - [DZone Agile](https://dzone.com/agile-methodology-training-tools-news)
-    - [Blog | Agile Alliance](https://www.agilealliance.org/community/blog/)
+    - [Blog - Agile Alliance](https://www.agilealliance.org/community/blog/)
     - [Mike Cohn's Blog at Mountain Goat Software](https://www.mountaingoatsoftware.com/blog)
     - [Resources Archive - SolutionsIQ](https://www.solutionsiq.com/resource/)
     - [Blog – Gamestorming](http://gamestorming.com/blog/)
