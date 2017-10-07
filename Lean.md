@@ -1,6 +1,6 @@
 ## Lean
 
-- [5 Lean behaviours we should all practice](https://www.linkedin.com/pulse/5-lean-behaviours-we-should-all-practice-james-morgan) - by James Morgan
+- [5 Lean behaviours we should all practice](https://www.linkedin.com/pulse/5-lean-behaviours-we-should-all-practice-james-morgan) - by James Morgan. Trust, honesty, listening, respect and consistency as the 5 simple behaviours that could help improve processes.
 
 - [7 Lean Metrics to Improve Flow](https://leankit.com/learn/kanban/lean-flow-metrics/)
 
