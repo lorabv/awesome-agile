@@ -1,15 +1,13 @@
 ## Story Splitting
 
-- [10 Powerful Strategies for Breaking down User Stories in Scrum (with Cheatsheet)](https://medium.com/@chrisverwijs/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb) - by Christiaan Verwijs
+- [10 Powerful Strategies for Breaking down User Stories in Scrum (with Cheatsheet)](https://medium.com/@chrisverwijs/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb) - by Christiaan Verwijs. "In Scrum, a vertical break-down is more useful, in which user stories are broken down into smaller user stories (instead of technical tasks). If user stories are broken down vertically, they are broken down in such a way that smaller items still result in working, demonstrable, software. Functionality will not be split across technical layers or tasks, but across functional layers. So, if the user story is ‘As customer I can pay for my order, so I can get my products’, it can be broken down into smaller user stories like ‘As customer I can pay by wire transfer, so I can get my products’ or ‘As customer I can pay with credit card, so I can get my products’."
 
-- [How to Split a User Story](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf)
+- [How to Split a User Story](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf) (Flowchart) - by Agile For All. A flowchart showing different patterns split a user story.
 
-- [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) - by Bill Wake
+- [INVEST in Good Stories, and SMART Tasks](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/) - by Bill Wake. "As you discuss stories, write cards, and split stories, the INVEST acronym can help remind you of characteristics of good stories. When creating a task plan, applying the SMART acronym can improve your tasks." INVEST: Independent, Negotiable, Valuable, Estimable, Small, Testable; SMART: Specific, Measurable, Achievable, Relevant, Time-boxed
 
-- [Slicing User Stories, Delivering Value](https://www.linkedin.com/pulse/slicing-user-stories-delivering-value-ellen-gottesdiener) - by Ellen Gottesdiener
+- [Slicing User Stories, Delivering Value](https://www.linkedin.com/pulse/slicing-user-stories-delivering-value-ellen-gottesdiener) - by Ellen Gottesdiener. A summary of a webinar "focused on helping teams manage their backlogs, improve sprints and release planning, and increase delivered value".
 
-- [Split User Stories Ruthlessly - And Get Value Earlier](http://mikeborozdin.com/post/split-user-stories-get-value-early/) - by Mike Borozdin
+- [Splitting user stories -- the hamburger method](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - by Gojko Adzic. "This method works very nicely because it is visual, and it gets people thinking about alternatives while still staying in their comfort zone. It also works nicely with ‘bite-size chunks’ analogies. And you can easily explain why releasing just a technical task doesn’t make sense because no sane person would eat only the lettuce."
 
-- [Splitting user stories -- the hamburger method](https://gojko.net/2012/01/23/splitting-user-stories-the-hamburger-method/) - by Gojko Adzic
-
-- [Twenty Ways to Split Stories](http://xp123.com/articles/twenty-ways-to-split-stories/) - by Bill Wake
+- [Twenty Ways to Split Stories](http://xp123.com/articles/twenty-ways-to-split-stories/) - by Bill Wake. "There's usually a lot of value in getting a minimal, end-to-end solution present, then filling in the rest of the solution. These 'splits' are intended to help you do that."
