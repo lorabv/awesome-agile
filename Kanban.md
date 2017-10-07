@@ -1,5 +1,7 @@
 ## Kanban
 
+- [7 Lean Metrics to Improve Flow](https://leankit.com/learn/kanban/lean-flow-metrics/) - by LeanKit. "With flow, the goal is more about consistently creating economic value than it is about having the fastest cycle time or highest throughput. Maintaining a steady flow of work through your Kanban system can help you deliver value more quickly and reliably to your customers, team, and organization."
+
 - [One Day in Kanban Land](http://blog.crisp.se/2009/06/26/henrikkniberg/1246053060000) - by Henrik Kniberg. A short and simple visual explanation of Kanban. 
 
 - [Kanban, Can’tban, and Risky Visualizations](https://medium.com/@johnpcutler/kanban-cannotban-and-risky-visualizations-e19d83b53718) - by John Cutler. "Kanban doesn’t care about how you write code, structure and incentivize teams, develop roadmaps and backlogs, manage projects, manage people, scheduled meetings, or release software. Through visualizing our work, Kanban helps guide our continuous improvement efforts."
