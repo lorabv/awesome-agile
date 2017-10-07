@@ -1,23 +1,24 @@
 ## Product Roadmap and Prioritisation
 
-- [10 Tips for Creating an Agile Product Roadmap](https://medium.com/@romanpichler/10-tips-for-creating-an-agile-product-roadmap-515637c8081b#.y413bsegz) - by Roman Pichler
+- [10 Tips for Creating an Agile Product Roadmap](https://medium.com/@romanpichler/10-tips-for-creating-an-agile-product-roadmap-515637c8081b#.y413bsegz) - by Roman Pichler. "A product roadmap is a powerful tool to describe how a product is likely to grow, to align the stakeholders, and to acquire a budget for developing the product. But creating an effective roadmap is not easy, particularly in an agile context where changes occur frequently and unexpectedly. This post shares ten practical tips to helps you create an actionable agile product roadmap."
 
-- [20 Product Prioritization Techniques: A Map and Guided Tour](https://foldingburritos.com/product-prioritization-techniques/)- by Daniel Zacarias
+- [20 Product Prioritization Techniques: A Map and Guided Tour](https://foldingburritos.com/product-prioritization-techniques/)- by Daniel Zacarias. "Here’s what you will get from this guide covering 20 popular product prioritization techniques: A map, in the form of a Periodic Table to help you make sense of what each technique has to offer; An overview of each method, with graphics and links to more in-depth resources; 5 commonalities and takeaways from all these methods."
 
-- [#now, #next, #later: Roadmaps without the Drudgery](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645) - by Noah Weiss
+- [#now, #next, #later: Roadmaps without the Drudgery](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645) - by Noah Weiss. "Structure and communication processes are taxes companies pay as they grow bigger. They slow things down. But, a bit of structure like this tagging system can go a long way. Creating a prioritized roadmap was something everyone did, but no one had an approach they loved. Finding something simple and common across teams was a win.
+Our goal was to find the way to pay the lowest tax bracket while getting all the entitlements of heavier systems like OKRs. #now, #next, #later has worked great for Foursquare. Give it a shot with your company."
 
-- [Agile Roadmapping: How To Think Big, Ship Fast And Always Keep Moving](https://blog.trello.com/agile-roadmapping-how-to-think-big-ship-fast) - by Janna Bastow
+- [Agile Roadmapping: How To Think Big, Ship Fast And Always Keep Moving](https://blog.trello.com/agile-roadmapping-how-to-think-big-ship-fast) - by Janna Bastow. "An agile product roadmap revolves around desired goals and outcomes, instead of features or timelines. With an agile roadmap, you can communicate both your big picture narrative—that pie-in-the-sky vision—and the series of steps you anticipate will help you meet that vision over time. The steps matter, but they also don’t."
 
-- [Enter The Matrix – Lean Prioritisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) - by Andy Wicks
+- [Enter The Matrix – Lean Prioritisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) - by Andy Wicks. "The 2×2 matrix is a quick and simple tool that will transform the way you prioritise your product backlog. It helps you to focus on features/enhancements that add the most value to your customers compared to the effort required to deliver them."
 
-- [Here’s the Exact, Step-by-Step Process That Asana Uses to Build Their Product Roadmap](https://www.codementor.io/blog/how-to-build-a-product-roadmap-the-asana-way-2kvo8z70dm) - by Ariel Rule
+- [Here’s the Exact, Step-by-Step Process That Asana Uses to Build Their Product Roadmap](https://www.codementor.io/blog/how-to-build-a-product-roadmap-the-asana-way-2kvo8z70dm) - by Ariel Rule. "We recently spoke with Michael Nguyen, Head of Customer Journey at Asana – a project management app used by over 25,000 customers around the world – to ask him just how his team deals with this dilemma. What he came back with was an extremely detailed and documented process that allows Asana to list, vet, and outline exactly what features they will add, why they will add them, and how they get everyone at Asana on board and excited about each new sprint."
 
-- [How We Build Our Product Roadmap at Asana](https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad) - by Jackie Bavaro
+- [How We Build Our Product Roadmap at Asana](https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad) - by Jackie Bavaro. "At Asana we wanted to get the best of both worlds: a clear strategy where everyone can connect the dots from their daily work to the company mission, and a collaborative process where the people closest to the work can influence our direction."
 
-- [Putting Your Users First with Problem-Centric Roadmaps](https://www.youtube.com/watch?v=aOupk_34uRE) - by Janna Bastow
+- [Putting Your Users First with Problem-Centric Roadmaps](https://www.youtube.com/watch?v=aOupk_34uRE) (Video) - by Janna Bastow. "In this DesignTalk, Janna Bastow teaches us how to build a product roadmap that helps you and your team shift from a feature mindset to effective problem solving mode."
 
-- [Product Strategy Means Saying No](https://blog.intercom.com/product-strategy-means-saying-no/) - by Des Traynor
+- [Product Strategy Means Saying No](https://blog.intercom.com/product-strategy-means-saying-no/) - by Des Traynor. "The thing is, no one keeps crap ideas in their roadmap. Identifying and eliminating the bad ideas is the easy bit. Real product decisions aren’t easy. They require you to look at a proposal and say “This is a really great idea, I can see why our customers would like it. Well done. But we’re not going to build it. Instead, here’s what we’re doing.”."
 
-- [This Product Prioritization System Nabbed Pandora 70 Million Monthly Users with Just 40 Engineers](http://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/) - by First Round Review
+- [This Product Prioritization System Nabbed Pandora 70 Million Monthly Users with Just 40 Engineers](http://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/) - by First Round Review. "It turns out 50 of the things we didn't do, no one thinks are important anymore. That's when you step back and say wow, we're not ready for a long-term roadmap."
 
-- [What Are the Best Ways to Prioritize a List of Product Features?](https://www.quora.com/Product-Management/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - by Ian McAllister
+- [What Are the Best Ways to Prioritize a List of Product Features?](https://www.quora.com/Product-Management/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - over 70 great answers on Quora.com
