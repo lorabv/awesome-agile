@@ -27,7 +27,7 @@ Awesome List of resources on agile software development.
     - [Scrum Master](Scrum-Master.md)
     - [Agile Coach](Agile-Coach.md)
 
-- Agile Engineering and Craftsmanship
+- Agile Engineering
     - [Acceptance Testing](Acceptance-Testing.md)
     - [Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo&t=12s)
     - [Agile Engineering Self Assessment](http://wall-skills.com/2016/agile-engineering-self-assessment/)
@@ -53,8 +53,8 @@ Awesome List of resources on agile software development.
 - User Stories and Estimation
     - [Epics](Epic.md)
     - [User Stories](User-Stories.md)
-    - [Story Splitting](Story-Splitting.md)
-    - [Story Mapping](Story-Mapping.md)
+    - [User Story Splitting](Story-Splitting.md)
+    - [User Story Mapping](Story-Mapping.md)
     - [Estimation](Estimation.md)
     - [Definition of Done](Definition-of-Done.md)
 
