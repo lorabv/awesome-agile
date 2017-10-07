@@ -6,7 +6,7 @@
 
 - [Kanban, Can’tban, and Risky Visualizations](https://medium.com/@johnpcutler/kanban-cannotban-and-risky-visualizations-e19d83b53718) - by John Cutler. "Kanban doesn’t care about how you write code, structure and incentivize teams, develop roadmaps and backlogs, manage projects, manage people, scheduled meetings, or release software. Through visualizing our work, Kanban helps guide our continuous improvement efforts."
 
-- [Scrum and Kanban: Make Your Teams Better by Busting Common Myths](https://www.scrum.org/resources/scrum-and-kanban-make-your-teams-better-busting-common-myths)(Webinar) - by Steve Porter and Daniel Vacanti. Tips on how to combine Scrum and Kanban
+- [Scrum and Kanban: Make Your Teams Better by Busting Common Myths](https://www.scrum.org/resources/scrum-and-kanban-make-your-teams-better-busting-common-myths) (Webinar) - by Steve Porter and Daniel Vacanti. Tips on how to combine Scrum and Kanban
 
 - [Tutorial - Tracking a Kanban Team](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/jira-agile-tutorials/tutorial-tracking-a-kanban-team) - by Atlassian. A tutorial on how to set up Kanban environment in JIRA.
 
