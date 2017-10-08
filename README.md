@@ -27,7 +27,7 @@ Awesome List of resources on agile software development.
     - [Scrum Master](Scrum-Master.md)
     - [Agile Coach](Agile-Coach.md)
 
-- Agile Engineering
+- Engineering
     - [Acceptance Testing](Acceptance-Testing.md)
     - [Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo&t=12s)
     - [Agile Engineering Self Assessment](http://wall-skills.com/2016/agile-engineering-self-assessment/)
@@ -69,6 +69,7 @@ Awesome List of resources on agile software development.
     - [Metrics](Metrics.md)
 
 - Agile Leadership
+    - [7 Lessons Agile Can Teach Us about Leadership](https://www.agileconnection.com/article/7-lessons-agile-can-teach-us-about-leadership) - by Ryan Ripley
     - [Decisions](Decisions.md)
     - [Management 3.0](Management-3.0.md)
 
