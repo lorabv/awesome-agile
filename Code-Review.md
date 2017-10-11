@@ -8,4 +8,6 @@
 
 - [Mindful Communication In Code Reviews](http://amyciavolino.com/assets/MindfulCommunicationInCodeReviews.pdf) (Slides) - by Amy Ciavolino. "Even if a reviewer followed all the tips so far, they'll make mistakes or get careless. Try to keep in mind we're on the same team and they likely had good intentions behind whatever feedback was given."
 
+- [Three CTOs Answer: What Is Good Code?](https://hackernoon.com/three-ctos-answer-what-is-good-code-2ec6aa1d1a85) - by Roger Jin. "Code should be written for humans, not just for computers."
+
 - [What We Learned from Google: Code Reviews Aren’t Just for Catching Bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs/) - by Bruce Johnson. "Contained herein are both the big, obvious engineering reasons you should adopt code reviews, as well as the more nuanced — but equally important — benefits to your customers and your own company culture."
