@@ -14,6 +14,8 @@
 
 - [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) - by Steve Urban, Rangarajan Sreenivasan and Vineet Kannan. "In this post we’re going to discuss the Experimentation Platform: the service which makes it possible for every Netflix engineering team to implement their A/B tests with the support of a specialized engineering team. We’ll start by setting some high level context around A/B testing before covering the architecture of our current platform and how other services interact with it to bring an A/B test to life."
 
+- [Make Product Decisions Without Doubt — My Lessons from Twitter and Slack](http://firstround.com/review/make-product-decisions-without-doubt-my-lessons-from-twitter-and-slack/) - by First Round Review. "A hypothesis tree helps dissect doubts. It’s simply a structure for an overarching thesis and supporting points."
+
 - [Resources to Evolve Your A/B Testing Skills](https://medium.com/@caraharshman/resources-to-evolve-your-a-b-testing-skills-ff60a885f12) - by Cara Harshman
 
 - [Stepping up Your A/B Tests](https://www.mindtheproduct.com/2017/07/stepping-ab-tests/) - by Kevin Shanahan. "This is the first of two posts that deep dive on A/B testing, expanding on a talk I gave at Google Playtime 2016 in London. In this post I share some of the learnings we’ve had after running 60+ A/B tests at Peak, looking at each step of the A/B testing cycle in turn."
