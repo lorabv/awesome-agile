@@ -22,6 +22,8 @@
 
 - [How to Combine Design Thinking and Agile in Practice](https://medium.com/startup-study-group/how-to-combine-design-thinking-and-agile-in-practice-36c9fc75c6e6) - by Tom Roach
 
+- [IBM Design Thinking Field Guide](https://www.ibm.com/developerworks/community/forums/ajax/download/a8d7bfa5-57aa-4afe-9220-d00254f78edc/a1bd823f-e1ed-4401-97e9-1e30b6e46f45/IBM%20Design%20Thinking%20Field%20Guide%20v3.3.pdf) (Field Guide) - by IBM
+
 - [Shh! Don’t Tell Them There’s No Magic In Design Thinking](https://medium.com/ux-immersion-interactions/ssh-dont-tell-them-there-s-no-magic-in-design-thinking-b95f33867656) - by Jared M. Spool
 
 - [The blurring between Design Thinking and Agile](https://medium.com/front-line-interaction-design/the-blurring-between-design-thinking-and-agile-ae59d14f28e3) - by Matt Cooper-Wright
