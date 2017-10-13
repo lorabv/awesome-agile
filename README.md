@@ -22,7 +22,7 @@ Awesome List of resources on agile software development.
     - [Patterns](Agile-Adoption-Patterns.md)
 
 - Agile Team and Roles
-    - [Team](Team.md)
+    - [Team (includes also Team Building, Teamwork, Great Teams and Team Dysfunctions)](Team.md)
     - [Product Owner](Product-Owner.md)
     - [Scrum Master](Scrum-Master.md)
     - [Agile Coach](Agile-Coach.md)
