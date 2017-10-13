@@ -1,4 +1,4 @@
-## Team, Team Building, Teamwork, Great Teams and Team Dysfunctions
+## Team
 
 ### Agile Team
 
