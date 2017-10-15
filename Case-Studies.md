@@ -12,6 +12,8 @@
 
 - [SAFe drives continuous delivery, improves quality, productivity, and employee satisfaction](http://www.scaledagileframework.com/cisco-case-study/) - Cisco case study
 
+- [Scaling Agile @ LEGO and Spotify](http://blog.crisp.se/2017/10/10/henrikkniberg/scaling-agile-lego-and-spotify) (Slides) - by Henrik Kniberg
+
 - [Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds](http://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify) - by Henrik Kniberg. Spotify case study
 
 - [Scaling Agile Across the Enterprise](http://stories.visualstudio.com/scaling-agile-across-the-enterprise/) - Microsoft Visual Studio case study
