@@ -57,6 +57,7 @@ Awesome List of resources on agile software development.
     - [User Story Mapping](Story-Mapping.md)
     - [Estimation](Estimation.md)
     - [Definition of Done](Definition-of-Done.md)
+    - [Definition of Ready](Definition-of-Ready.md)
 
 - Agile Ceremonies
     - [Backlog Refinement](Backlog-Refinement.md)
