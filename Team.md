@@ -38,6 +38,8 @@
 
 - [Of Arguments and Agile](https://www.scrumalliance.org/community/articles/2017/august/of-arguments-and-agile) - by Declan Appleyard. "Ultimately, though, it’s up to you to foster this open culture, be an example of what you are trying to achieve, and be brave enough to challenge ideas. Help defuse hostile situations and remind people that, at the end of the day, we are all working toward a common goal."
 
+- [We Fired Our Top Talent. Best Decision We Ever Made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde) - by Jonathan Solórzano-Hamilton. "Your team’s strength is not a function of the talent of individual members. It’s a function of their collaboration, tenacity, and mutual respect."
+
 ### Great Teams
 
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (Video) - by Christina Wodtke. "Every wonder if there was a better way to form and manage teams?"
