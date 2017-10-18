@@ -30,6 +30,8 @@
 
 - [Return of the Retrospective - Prioritising continuous improvement](https://www.slideshare.net/RyanMcKergow/return-of-the-retrospective-prioritising-continuous-improvement-15122016) (Slides) - by Ryan McKergow. "The aim of this session is to empower you to change things up within your team or company and bring the retrospective back to life. You will learn about a number of new and different retrospective techniques that you can start using immediately back at your company. It’s time for the return of the retrospectives!"
 
+- [Team Culture Retrospective](https://elabor8.com.au/team-culture-retrospective/) - by Andrew Blain. "Different teams have different mixes of people, with different motivations. The Team Culture Retrospective is an activity which aims to inspect team culture and drive targeted actions for improving culture in line with how the team is motivated."
+
 - [Technical Debt Wall Retrospective](http://fabiopereira.me/blog/2009/09/01/technical-debt-retrospective/) - by Fabio Pereira. The post describes how to run a Retrospective on technical debt sorting it by Effort and Pain.
 
 - [The Happy Marriage of Retrospectives and Software Evolution](http://www.empear.com/blog/happy-marriage-of-retrospective-and-software-evolution/) - by Adam Tornhill. "In this article we’ll focus on one of the central, and often neglected, practices or agile methodologies: Retrospectives. You’ll see why retrospectives get abandoned, the unfortunate consequences, and how you can improve them by a software evolutionary approach that uncovers the impact your work has on the system as a whole."
