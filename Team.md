@@ -34,6 +34,8 @@
 
 - [Feedback for Teams](https://medium.com/the-creative-founder/feedback-for-teams-b2696661ddf7) - by Christina Wodtke. "This is the true “gift” of feedback. To see yourself how others see you, and decide what to do with that information."
 
+- [How Awesome Engineers Ask for Help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7) - Greg Sabo. "Asking for help is hard, and procrastination protects us from it. That’s why you must perfect your ability to ask for help. It’s key to achieving productivity as an engineer."
+
 - [How To Improve Cross-Functional Collaboration](https://agilevelocity.com/agile/blogimprove-cross-functional-collaboration/) - by Reese Schmit. "... some really smart people have come up with activities to help identify silos and gaps allowing teams to create a plan to fix them. I’m going to show you a few favorites I’ve used in the past with incredible results."
 
 - [Of Arguments and Agile](https://www.scrumalliance.org/community/articles/2017/august/of-arguments-and-agile) - by Declan Appleyard. "Ultimately, though, it’s up to you to foster this open culture, be an example of what you are trying to achieve, and be brave enough to challenge ideas. Help defuse hostile situations and remind people that, at the end of the day, we are all working toward a common goal."
