@@ -1,6 +1,10 @@
 ## Agile Adoption Patterns
 
+- [Doing Agile vs. Being Agile](http://agilitrix.com/2016/04/doing-agile-vs-being-agile/) - by Michael Sahota. "Doing Agile is about the practices: standups, user stories, iterations, etc... Being Agile is about our Consciousness or way of being."
+
 - [Optimizing for Iteration Speed](https://erikbern.com/2017/07/06/optimizing-for-iteration-speed.html) - by Erik Bernhardsson. "I’ve written before about the importance of iterating quickly but I didn’t necessarily talk about some concrete things you can do. When I’ve built up the tech team at Better, I’ve intentionally optimized for fast iteration speed above almost everything else. What are some ways we did that?"
+
+- [“WHY Agile?” Workshop](http://agilitrix.com/2014/06/agile-is-not-the-goal-workshop/) - by Michael Sahota. "Here is how to run a one hour workshop turn your “Agile” initiative into something valuable, sustainable and open the door for real change (transformation)."
 
 - [Why Isn’t Agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552) - by John Cutler. "Agile is worthless unless it serves as a catalyst for continuous improvement."
 
