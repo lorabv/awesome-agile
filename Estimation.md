@@ -1,5 +1,7 @@
 ## Estimation
 
+- [12 Common Mistakes Made When Using Story Points](https://medium.com/bynder-tech/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7) - by Maarten Dalmijn. "Being aware of mistakes that can be made when using Story Points helps applying them the right way."
+
 - [Accuratizing Software Estimation](https://medium.com/pointer-io/accuratizing-software-estimation-cf81a9e9fd87) - by Chet Haase. "The initial answer given by the engineer was reasonable, given their knowledge of the problem domain at the time. It’s just that engineers are always optimistic, accounting only for how long something might take in the best situation, with the best minds, where nothing goes wrong and management leaves them the hell alone. But this never happens in reality, so we need to apply our knowledge of typical software product schedules to derive a more accurate answer."
 
 - [Agile Estimating and Planning: Planning Poker](https://www.youtube.com/watch?v=MrIZMuvjTws) (Video) - by Mike Cohn. "In this video, Mike explains how to play Planning Poker to collaboratively estimate an agile or Scrum team's product backlog."
