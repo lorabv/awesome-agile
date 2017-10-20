@@ -6,6 +6,8 @@
 
 - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) - by Jan Overgoor. "Controlled experiments are a great way to inform decisions around product development. Hopefully, the lessons in this post will help prevent some common A/B testing errors."
 
+- [From Power Calculations to P-Values: A/B Testing at Stack Overflow](https://stackoverflow.blog/2017/10/17/power-calculations-p-values-ab-testing-stack-overflow/?cb=1) - by Julia Silge. "Dealing with data means becoming comfortable with uncertainty, and A/B tests make this reality extremely apparent. Handling uncertainty wisely and using statistical tools like A/B tests well can give us the ability to make better decisions."
+
 - [How A/B Testing at LinkedIn, Wealthfront and eBay Made Me a Better Manager](http://firstround.com/review/how-a-b-testing-at-linkedin-wealthfront-and-ebay-made-me-a-better-manager/) - by First Round Review. "In this interview, Shmukler shows why he uses A/B testing as a management framework, illustrating how it works to not only accelerate decisions, but also empower the teams making them. He outlines the framework’s benefits and challenges, as well as how to implement and scale it a startup. Any product or growth leader will learn from his data-driven approach to product and team management."
 
 - [How Netflix Does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c) - by Jessie Chen. "Have you ever wondered why Netflix has such a great streaming experience? Do you want to learn how they completed their homepage plus other UI layout redesigns through A/B testing? If so, then this article is for you!"
