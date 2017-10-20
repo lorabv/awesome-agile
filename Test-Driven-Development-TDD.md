@@ -4,9 +4,11 @@
 
 - [Empirical Studies Show Test Driven Development Improves Quality](https://www.infoq.com/news/2009/03/TDD-Improves-Quality) - by Chris Sims
 
-- [Ian Cooper: TDD, Where Did It All Go Wrong](https://vimeo.com/68375232) - Video
+- [Ian Cooper: TDD, Where Did It All Go Wrong](https://vimeo.com/68375232) (Video)
 
-- [Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) - Video
+- [Introduction to Test Driven Development (TDD)](http://agiledata.org/essays/tdd.html) - by Scott W. Ambler. "Test-driven development (TDD) is a development technique where you must first write a test that fails before you write new functional code."
+
+- [Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) (Video)
 
 - [TDD Anti-Patterns](https://web.archive.org/web/20160304022521/http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/) - by James Carr
 
