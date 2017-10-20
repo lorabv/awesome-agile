@@ -8,4 +8,6 @@
 
 - [Tutorial - Tracking a Kanban Team](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/jira-agile-tutorials/tutorial-tracking-a-kanban-team)
 
+- [Velocity - How to Calculate and Use Velocity to Help Your Team and Your Projects](https://www.scrumalliance.org/community/articles/2014/february/velocity) - by Catia Oliveira. "Humans are humans, and we are (gladly) different from each other. You'll always have teams performing differently from each other -- and that's not necessarily bad. We just need to find out each team's own sustainable pace and keep them moving, driving our company further."
+
 - [Why Vanity Metrics are Dangerous: Holding a Mirror Up to Your Measures of Success](https://leankit.com/blog/2016/03/why-vanity-metrics-are-dangerous-holding-a-mirror-up-to-your-measures-of-success/) - by Julia Wester
