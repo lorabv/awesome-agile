@@ -12,7 +12,7 @@ Awesome List of resources on agile software development.
 - [Product](#product)
 - [User Stories and Estimation](#user-stories-and-estimation)
 - [Ceremonies](#ceremonies)
-- [Metric](#metrics)
+- [Metrics](#metrics)
 - [Agile Leadership](#agile-leadership)
 - [Blogs and Podcasts](#blogs-and-podcasts)
 
