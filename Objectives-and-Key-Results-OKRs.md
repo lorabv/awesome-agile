@@ -6,6 +6,8 @@
 
 - [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs/) - by Dan North. "I’ve watched teams up and down the organisation from middle management to execs, wrestling with the hard choices of what not to do this quarter, and OKRs seem to provide just enough structure to cause the team to come together and agree a shared direction."
 
+- [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) - A curated list of resources about OKRs
+
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (Video) - by Christina Wodtke. "Every wonder if there was a better way to form and manage teams?"
 
 ### Books
