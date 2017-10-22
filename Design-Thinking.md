@@ -27,3 +27,7 @@
 - [Shh! Don’t Tell Them There’s No Magic In Design Thinking](https://medium.com/ux-immersion-interactions/ssh-dont-tell-them-there-s-no-magic-in-design-thinking-b95f33867656) - by Jared M. Spool
 
 - [The blurring between Design Thinking and Agile](https://medium.com/front-line-interaction-design/the-blurring-between-design-thinking-and-agile-ae59d14f28e3) - by Matt Cooper-Wright
+
+### Books
+
+- [Design Thinking Playbook from Design Tech High School](https://dschool.stanford.edu/resources/design-thinking-playbook-from-design-tech-high-school) - by Hasso Plattner Institute of Design at Stanford University
