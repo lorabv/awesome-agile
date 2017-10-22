@@ -9,7 +9,7 @@ Awesome List of resources on agile software development.
 - [Agile Adoption](#agile-adoption)
 - [Team and Roles](#team-and-roles)
 - [Engineering](#engineering)
-- [Product](#product)
+- [Product Development](#product-development)
 - [User Stories and Estimation](#user-stories-and-estimation)
 - [Ceremonies](#ceremonies)
 - [Metrics](#metrics)
@@ -53,7 +53,7 @@ Awesome List of resources on agile software development.
 - [Test Driven Development (TDD)](Test-Driven-Development-TDD.md)
 - [Technical Debt](Technical-Debt.md)
 
-## Product
+## Product Development
 - [A/B Testing](A-B-Testing.md)
 - [Design Thinking](Design-Thinking.md)
 - [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
