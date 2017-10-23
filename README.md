@@ -6,7 +6,7 @@ Awesome List of resources on agile software development.
 
 ## Contents
 - [The Fundamentals](#the-fundamentals)
-- [Key Agile Concepts](#key-agile-concepts)
+- [Key Concepts](#key-concepts)
 - [Agile Adoption](#agile-adoption)
 - [Team and Roles](#team-and-roles)
 - [Engineering](#engineering)
@@ -23,7 +23,7 @@ Awesome List of resources on agile software development.
 - [Agile Glossary](https://www.solutionsiq.com/agile-glossary/)
 - [Agile Mindset](https://www.cio.com.au/article/609763/more-agile-need-mindsets-change/)
 
-## Key Agile Concepts
+## Key Concepts
 - [Extreme Programming (XP)](Extreme-Programming-XP.md)
 - [Kanban](Kanban.md)
 - [Lean](Lean.md)
