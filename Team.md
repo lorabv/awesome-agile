@@ -18,6 +18,8 @@
 
 - [What Is a Team?](https://less.works/less/structure/teams.html) - by The LeSS Company
 
+- [Why Cross-Functional Teams Fail? How Solver-Teams Sail!](https://www.linkedin.com/pulse/why-cross-functional-team-fails-while-solver-team-ajay-shrivastava/) - by Ajay Shrivastava. "Move Fast, Fail Fast, Iterate - is only possible when there is a trusting and synergistic environment."
+
 ### Team Building
 
 - [How To Kickstart A Great Scrum Team (10 practical things to do)](https://www.linkedin.com/pulse/how-kickstart-great-scrum-team-10-practical-things-do-verwijs) - by Christiaan Verwijs
