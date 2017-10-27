@@ -2,6 +2,8 @@
 
 - [A Refresher on A/B Testing](https://hbr.org/2017/06/a-refresher-on-ab-testing) - by Amy Gallo. "It’s clear that A/B testing is not a panacea. There are more complex kinds of experiments that are more efficient and will give you more reliable data, Fung says. But A/B testing is a great way to gain a quick understanding of a question you have. And “the good news about the A/B testing world is that everything happens so quickly, so if you run it and it doesn’t work, you can try something else. You can always flip back to the old tactic.”"
 
+- [A/B Testing - You’re Doing It Wrong](https://hackernoon.com/a-b-testing-youre-doing-it-wrong-77d628ac9518) - by Justin Baker. "Effective A/B tests are about problem solving — driving long-lasting, positive value for your customers."
+
 - [An Ultimate Guide to A/B Testing on Prototypes.](https://uxplanet.org/an-ultimate-guide-to-a-b-testing-on-pre-live-apps-4bd57679e8cc) - by CanvasFlip. "Conversion funnels on CanvasFlip might help you understand the drop-off ratios and conversion rates. This goes a long way in determining which area needs immediate attention."
 
 - [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7) - by Jan Overgoor. "Controlled experiments are a great way to inform decisions around product development. Hopefully, the lessons in this post will help prevent some common A/B testing errors."
