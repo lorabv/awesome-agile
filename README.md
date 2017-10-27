@@ -47,6 +47,7 @@ Awesome List of resources on agile software development.
 - [Behaviour Driven Development (BDD)](Behaviour-Driven-Development-BDD.md)
 - [Code Reviews](Code-Review.md)
 - [Continuous Delivery](Continuous-Delivery.md)
+- [Continuous Integration](Continuous-Integration.md)
 - [Domain Driven Design (DDD)](Domain-Driven-Design-DDD.md)
 - [InnerSource](InnerSource.md)
 - [Pair Programming](Pair-Programming.md)
