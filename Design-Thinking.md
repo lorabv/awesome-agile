@@ -28,6 +28,8 @@
 
 - [The blurring between Design Thinking and Agile](https://medium.com/front-line-interaction-design/the-blurring-between-design-thinking-and-agile-ae59d14f28e3) - by Matt Cooper-Wright
 
+- [When, which … Design Thinking, Lean, Design Sprint, Agile?](https://medium.com/@geertwlclaes/when-which-design-thinking-lean-design-sprint-agile-a4614fa778b9) - by Geert Claes. "It probably makes more sense to just look at Design Thinking, Lean, Design Sprint & Agile as a bunch of tools and techniques in one’s toolbox, rather than argue for one over the other, because they can all add value somewhere on the innovation spectrum."
+
 ### Books
 
 - [Design Thinking Playbook from Design Tech High School](https://dschool.stanford.edu/resources/design-thinking-playbook-from-design-tech-high-school) - by Hasso Plattner Institute of Design at Stanford University
