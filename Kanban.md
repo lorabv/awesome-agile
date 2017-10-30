@@ -8,6 +8,8 @@
 
 - [Scrum and Kanban: Make Your Teams Better by Busting Common Myths](https://www.scrum.org/resources/scrum-and-kanban-make-your-teams-better-busting-common-myths) (Webinar) - by Steve Porter and Daniel Vacanti. Tips on how to combine Scrum and Kanban
 
+- [Scrum and Kanban Revisited](https://blog.agendashift.com/2017/08/29/scrum-and-kanban-revisited/) - by Mike Burrows. "Do I believe that a combination of Scrum and Kanban can help to deliver this? Yes I do, and I can point to multiple projects where I’ve witnessed it happen."
+
 - [Tutorial - Tracking a Kanban Team](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/jira-agile-tutorials/tutorial-tracking-a-kanban-team) - by Atlassian. A tutorial on how to set up Kanban environment in JIRA.
 
 ### Books
