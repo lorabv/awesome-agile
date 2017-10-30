@@ -8,6 +8,8 @@
 
 - [Scrum and Kanban: Make Your Teams Better by Busting Common Myths](https://www.scrum.org/resources/scrum-and-kanban-make-your-teams-better-busting-common-myths) (Webinar) - by Steve Porter and Daniel Vacanti. Tips on how to combine Scrum and Kanban
 
+- [Scrum and Kanban Revisited](https://blog.agendashift.com/2017/08/29/scrum-and-kanban-revisited/) - by Mike Burrows. "Do I believe that a combination of Scrum and Kanban can help to deliver this? Yes I do, and I can point to multiple projects where I’ve witnessed it happen."
+
 - [Scrum in 5 Minutes](http://stephenwalther.com/archive/2012/08/17/scrum-in-5-minutes) - by Stephen Walther. "The goal of this blog entry is to explain the basic concepts of Scrum in less than five minutes. You learn how Scrum can help a team of developers to successfully complete a complex software project."
 
 - [The Scrum Guide™](http://www.scrumguides.org/scrum-guide.html) - by Ken Schwaber and Jeff Sutherland. The official Scrum Body of Knowledge.
