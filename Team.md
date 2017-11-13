@@ -48,7 +48,7 @@
 
 ### Great Teams
 
-- [A Model for High-Performing Teams](https://www.adventureswithagile.com/2017/09/25/model-high-performing-teams/) - by Simon Powers. "uilding high-performance is just as much about building an environment that supports teamwork as it is building connections within the team. Both parts of the model must work together to make a high-performing team."
+- [A Model for High-Performing Teams](https://www.adventureswithagile.com/2017/09/25/model-high-performing-teams/) - by Simon Powers. "Building high-performance is just as much about building an environment that supports teamwork as it is building connections within the team. Both parts of the model must work together to make a high-performing team."
 
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (Video) - by Christina Wodtke. "Every wonder if there was a better way to form and manage teams?"
 
