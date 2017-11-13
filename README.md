@@ -22,6 +22,7 @@ Awesome List of resources on agile software development.
 - [Agile Principles](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 - [Agile Glossary](https://www.solutionsiq.com/agile-glossary/)
 - [Agile Mindset](https://www.cio.com.au/article/609763/more-agile-need-mindsets-change/)
+- [Periodic Table of Agile Principles and Practices](https://www.niceideas.ch/Agile_table.pdf) - by Jerome Kehrli 
 
 ## Key Concepts
 - [Extreme Programming (XP)](Extreme-Programming-XP.md)
