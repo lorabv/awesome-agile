@@ -40,6 +40,8 @@
 
 - [How To Improve Cross-Functional Collaboration](https://agilevelocity.com/agile/blogimprove-cross-functional-collaboration/) - by Reese Schmit. "... some really smart people have come up with activities to help identify silos and gaps allowing teams to create a plan to fix them. I’m going to show you a few favorites I’ve used in the past with incredible results."
 
+- [Meeting Agreements for High Performing Teams](https://medium.com/@JoshuaKerievsky/meeting-agreements-for-high-performing-teams-b10311a630d0) - by Joshua Kerievsky. Tips on how to establish psychological safety in order to have productive meetings.
+
 - [Of Arguments and Agile](https://www.scrumalliance.org/community/articles/2017/august/of-arguments-and-agile) - by Declan Appleyard. "Ultimately, though, it’s up to you to foster this open culture, be an example of what you are trying to achieve, and be brave enough to challenge ideas. Help defuse hostile situations and remind people that, at the end of the day, we are all working toward a common goal."
 
 - [We Fired Our Top Talent. Best Decision We Ever Made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde) - by Jonathan Solórzano-Hamilton. "Your team’s strength is not a function of the talent of individual members. It’s a function of their collaboration, tenacity, and mutual respect."
