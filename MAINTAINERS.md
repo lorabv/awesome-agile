@@ -1,3 +1,3 @@
 ## Maintainers
 
-* [Lora Vardarova](https://www.linkedin.com/in/loravardarova/)
+* [Lora Vardarova](https://twitter.com/LoraVardarova)
