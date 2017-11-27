@@ -48,6 +48,8 @@
 
 ### Great Teams
 
+- [25 Hints You’re Working on a High Performing Team](https://medium.com/@johnpcutler/25-hints-youre-working-on-a-high-performing-team-c4d02f27dd3) - by John Cutler. "You’ll frequently find teams with incredibly capable individuals…but they are not operating as a team. Similarly, teams exist in a broader system. A great team cannot function in a broken org. Also…sometimes a team is the black sheep. They’re struggling, but the org isn’t exactly helping."
+
 - [A Model for High-Performing Teams](https://www.adventureswithagile.com/2017/09/25/model-high-performing-teams/) - by Simon Powers. "Building high-performance is just as much about building an environment that supports teamwork as it is building connections within the team. Both parts of the model must work together to make a high-performing team."
 
 - [Beyond OKRs: The Formula for High Performing Teams](http://eleganthack.com/beyond-okrs-the-formula-for-high-performing-teams/) (Video) - by Christina Wodtke. "Every wonder if there was a better way to form and manage teams?"
