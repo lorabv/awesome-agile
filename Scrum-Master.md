@@ -14,6 +14,8 @@
 
 - [Hiring: 38 Scrum Master Interview Questions to Avoid Agile Imposters](https://age-of-product.com/38-scrum-master-interview-questions-to-avoid-imposters-free-pdf/)
 
+- [Myth: The Scrum Master Must Resolve Every Problem] - by Christiaan Verwijs. "In this post we offered a couple of concrete examples and clarified what kind of problems a Development Team should solve, and what problems are ‘impediments’ to be picked up by the Scrum Master."
+
 - [ScrumMaster](https://www.mountaingoatsoftware.com/agile/scrum/roles/scrummaster)
 
 - [Scrum Training Series](http://scrumtrainingseries.com/)
