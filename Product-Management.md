@@ -6,7 +6,7 @@
 
 - [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2) - by John Cutler. "I’ve used the term Feature Factory at a couple conference talks over the past two years. I started using the term when a software developer friend complained that he was “just sitting in the factory, cranking out features, and sending them down the line.”"
 
-- [29 Indicators of a Product Manager’s Talent] - by Julie Babb. "At Pivotal Labs, this is what we look for in a PM candidate."
+- [29 Indicators of a Product Manager’s Talent](https://builttoadapt.io/the-29-product-manager-points-of-proof-af0d7a57eeb9) - by Julie Babb. "At Pivotal Labs, this is what we look for in a PM candidate."
 
 - [How to Break Free of the Feature Factory by John Cutler](https://www.mindtheproduct.com/2017/08/break-free-feature-factory-john-cutler/) - by Arne Kittler. "There’s widespread tension in our industry, John says. While everyone talks about “outcomes over output” and says they strive for “real impact” with their craft, in our day-to-day work many of us simply give all our priorities and attention to shipping features."
 
