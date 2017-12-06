@@ -1,10 +1,12 @@
 ## Product Management
 
+- [7 Brilliant Little Skills To Master Your Role As A Product Manager](https://www.prodpad.com/blog/essential-skills-for-product-manager-roles/) - by Janna Bastow. "What I’ve shared here is advice that I’ve learned over a decade of being a product manager – it certainly doesn’t happen overnight. Great products are built with learning and iteration. Great product managers are too."
+
 - [11 Ways I Visualize Product Development Work](https://hackernoon.com/11-ways-i-visualize-product-development-work-f32aee3fcbf7) - by John Cutler. "Whenever you’re thinking high level, someone will bring you down to earth and ask you to get into the weeds. Whenever you’re in the weeds, someone will complain that you’re not being high level enough. It’s the burden we bear. Just when you think you’ve figured things out, you’ll encounter a person who needs to see your roadmap, or backlog, or “sprint backlog”, or “project”, or “plan” in a whole new way."
 
 - [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2) - by John Cutler. "I’ve used the term Feature Factory at a couple conference talks over the past two years. I started using the term when a software developer friend complained that he was “just sitting in the factory, cranking out features, and sending them down the line.”"
 
-- [7 Brilliant Little Skills To Master Your Role As A Product Manager](https://www.prodpad.com/blog/essential-skills-for-product-manager-roles/) - by Janna Bastow. "What I’ve shared here is advice that I’ve learned over a decade of being a product manager – it certainly doesn’t happen overnight. Great products are built with learning and iteration. Great product managers are too."
+- [29 Indicators of a Product Manager’s Talent] - by Julie Babb. "At Pivotal Labs, this is what we look for in a PM candidate."
 
 - [How to Break Free of the Feature Factory by John Cutler](https://www.mindtheproduct.com/2017/08/break-free-feature-factory-john-cutler/) - by Arne Kittler. "There’s widespread tension in our industry, John says. While everyone talks about “outcomes over output” and says they strive for “real impact” with their craft, in our day-to-day work many of us simply give all our priorities and attention to shipping features."
 
