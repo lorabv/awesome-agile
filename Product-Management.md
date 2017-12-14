@@ -18,6 +18,8 @@
 
 - [Top 7 Agile Tips I Learnt as a Product Manager](https://www.youtube.com/watch?v=v7bNTqMlq-E) (Video) - by Benjamin Mitchell. "Many people have experienced using Agile approaches within teams to deliver more working software, but what can be learnt from combing these approaches with Product Development? This talk will cover the top seven hard-earned tips I learnt..." 
 
+- [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - by Julia Austin. "As an aspiring PM, there are three primary considerations when evaluating the role: Core Competencies, Emotional Intelligence (EQ), and Company Fit."
+
 ### Books
 
 - [INSPIRED: How to Create Products Customers Love](https://svpg.com/inspired-how-to-create-products-customers-love/) - by Marty Cagan
