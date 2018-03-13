@@ -14,6 +14,8 @@
 
 - [Key Learnings in My First Year as a PM at Amazon](https://www.linkedin.com/pulse/key-learnings-my-first-year-pm-amazon-venkatraman-prabhu/) - by Venkatraman Prabhu. "On July 11th 2017, I will complete my first year as a Product Manager at Amazon. It has been a very fruitful year for me from a learning and a professional development standpoint. I have mentioned my key learnings as a PM - I hope that these are helpful to professionals starting out in Product Management roles in Tech companies."
 
+- [Product Fail](https://svpg.com/product-fail/) - by Marty Cagan
+
 - [RICE: Simple prioritization for product managers](https://blog.intercom.com/rice-simple-prioritization-for-product-managers/) - by Sean McBride. "RICE is an acronym for the four factors we use to evaluate each project idea: reach, impact, confidence and effort."
 
 - [The Product Management Hierarchy of Needs](https://medium.com/product-problems/the-product-management-hierarchy-of-needs-1003b6c439d2) - by Joe Dempsey. "Successful products can come from seemingly nonexistent problems e.g. over 75 million Tamagotchis have been sold ‘just for fun’, but remember, it’s harder to sell a vitamin than a painkiller."
