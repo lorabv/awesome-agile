@@ -23,6 +23,8 @@ Our goal was to find the way to pay the lowest tax bracket while getting all the
 
 - [Product Strategy Means Saying No](https://blog.intercom.com/product-strategy-means-saying-no/) - by Des Traynor. "The thing is, no one keeps crap ideas in their roadmap. Identifying and eliminating the bad ideas is the easy bit. Real product decisions aren’t easy. They require you to look at a proposal and say “This is a really great idea, I can see why our customers would like it. Well done. But we’re not going to build it. Instead, here’s what we’re doing.”."
 
+- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9?_lrsc=879e835d-8a5f-4225-bcbd-7f428a315e65) - by Brandon Chu
+
 - [The Roadmap Dilemma: When to Grow, When to Learn](https://www.mindtheproduct.com/2017/10/roadmap-dilemma-grow-learn/) - by by Alexandre Gabadou and Julien Dreher. "When in Learning mode, you may realize that your product isn’t fit for market, because it has little or no traction. You therefore have to focus on reducing uncertainty, on better understanding your users’ problems, through test and learn. When your product gains traction in a market and grows organically – thanks to positive referrals from your users – you’ll need to get into Growth mode, meaning that you sustain and amplify demand for your product."
 
 - [This Product Prioritization System Nabbed Pandora 70 Million Monthly Users with Just 40 Engineers](http://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/) - by First Round Review. "It turns out 50 of the things we didn't do, no one thinks are important anymore. That's when you step back and say wow, we're not ready for a long-term roadmap."
