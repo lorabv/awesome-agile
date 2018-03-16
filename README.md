@@ -58,6 +58,7 @@ Awesome List of resources on agile software development.
 
 ## Product Development
 - [A/B Testing](A-B-Testing.md)
+- [Design Sprint](Design-Sprint.md)
 - [Design Thinking](Design-Thinking.md)
 - [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
 - [Product Backlog](Product-Backlog.md)
