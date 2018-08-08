@@ -18,10 +18,10 @@ Awesome List of resources on agile software development.
 - [Blogs and Podcasts](#blogs-and-podcasts)
 
 ## The Fundamentals
-- [Agile Manifesto](http://agilemanifesto.org/)
-- [Agile Principles](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
-- [Agile Glossary](https://www.solutionsiq.com/agile-glossary/)
-- [Agile Mindset](https://www.cio.com.au/article/609763/more-agile-need-mindsets-change/)
+- [Agile Manifesto](http://agilemanifesto.org)
+- [Agile Principles](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
+- [Agile Glossary](https://www.solutionsiq.com/agile-glossary)
+- [Agile Mindset](https://www.cio.com.au/article/609763/more-agile-need-mindsets-change)
 - [Periodic Table of Agile Principles and Practices](https://www.niceideas.ch/Agile_table.pdf) - by Jerome Kehrli 
 
 ## Key Concepts
@@ -91,14 +91,14 @@ Awesome List of resources on agile software development.
 - [Management 3.0](Management-3.0.md)
 
 ## Blogs and Podcasts
-- [The Agile Revolution Podcast - The Podcast That Is Everything Agile, Lean and Kanban](https://theagilerevolution.com/)
-- [J.D. Meier's Blog - Agile Results, Digital Business Transformation, and Program Management](https://blogs.msdn.microsoft.com/jmeier/)
+- [The Agile Revolution Podcast - The Podcast That Is Everything Agile, Lean and Kanban](https://theagilerevolution.com)
+- [J.D. Meier's Blog - Agile Results, Digital Business Transformation, and Program Management](https://blogs.msdn.microsoft.com/jmeier)
 - [Agile Archives - Atlassian Blog](https://www.atlassian.com/blog/agile)
 - [DZone Agile](https://dzone.com/agile-methodology-training-tools-news)
-- [Blog - Agile Alliance](https://www.agilealliance.org/community/blog/)
+- [Blog - Agile Alliance](https://www.agilealliance.org/community/blog)
 - [Mike Cohn's Blog at Mountain Goat Software](https://www.mountaingoatsoftware.com/blog)
-- [Resources Archive - SolutionsIQ](https://www.solutionsiq.com/resource/)
-- [Blog – Gamestorming](http://gamestorming.com/blog/)
+- [Resources Archive - SolutionsIQ](https://www.solutionsiq.com/resource)
+- [Blog – Gamestorming](http://gamestorming.com/blog)
 
 
 ## Contribute Your Favourites
