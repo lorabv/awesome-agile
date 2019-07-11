@@ -11,3 +11,5 @@
 - [Stories and Epics](https://hackernoon.com/stories-vs-epics-d773118420d2) - by John Cutler. "Less experienced teams tend to get tripped up trying to define Epics, User Stories, Task, and Sub Tasks. The reality is that software product development is typically one big nested hierarchy, and a super messy one at that. Additional tools — like maps, canvasses, designs, wireframes, logic diagrams — are needed to hold the mental model together."
 
 - [User Stories](https://www.youtube.com/watch?v=6q5-cVeNjCE) (Video) - by Mike Cohn. Mike Cohn's talk on user stories at the Norwegian Developers Conference 2012.
+
+- [Writing User Stories for Back-end Systems](https://www.mountaingoatsoftware.com/blog/writing-user-stories-for-back-end-systems) - by Mike Cohn. "First, notice it is OK to humanize the bank with "As a bank, I want..." Programmers do this all the time in conversation."
