@@ -7,3 +7,5 @@
 - [Design Sprint DYI Guide](https://www.gv.com/sprint/) - "This page is a DIY guide for running your own sprint. On Monday, you’ll map out the problem and pick an important place to focus. On Tuesday, you’ll sketch competing solutions on paper. On Wednesday, you’ll make difficult decisions and turn your ideas into a testable hypothesis. On Thursday, you’ll hammer out a high-fidelity prototype. And on Friday, you’ll test it with real live humans."
 
 - [Design Sprint How-To Videos](https://www.thesprintbook.com/videos) (Video)
+
+- [Design Sprint Kit](https://designsprintkit.withgoogle.com) - "The Design Sprint Kit is an open-source resource for design leaders, product owners, developers or anyone who is learning about or running Design Sprints. Whether you are new to Design Sprints and gaining buy in for your first Sprint, or an experienced Sprint facilitator looking for new methods, this site will help you learn, plan, and contribute to the Design Sprint Methodology."
