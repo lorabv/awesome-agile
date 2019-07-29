@@ -6,6 +6,8 @@
 
 - [A 5-why root cause analysis retrospective](http://nomad8.com/a-5-why-root-cause-analysis-retrospective/) - by Sandy Mamoli. "I wrote this to illustrate and examplify a retrospective technique that worked extremely well for our team. I think this was one of the best retrospectives I have ever participated in and I hope other people will give it a shot and share their experiences."
 
+- [Adding Another Dimension to the Traditional Scrum Retrospective Format] - by Paddy Corry. "Scrum masters need tactics to help teams see ways to improve their system without expending too much effort. The day job is busy enough! This post is about a retrospective format can potentially help with that."
+
 - [Agenda and Ideas](https://www.solutionsiq.com/learning/blog-post/agenda-and-ideas/) - by Tony Bonfante. "The following is a recommended agenda for a 1 hour Retrospective. There are different formulas out there for retrospective time per weeks in the sprint. 1 hour to 1-1/2 hours for a 2-week sprint should serve quite well. If you engage your soft skills of scanning the room and leading from behind, you’ll be able to judge what’s best for your team. If the activities are tightly run without rambling discussions, 1 hour should work fine for a standard team of 6-9 members. You’ll get better results if you keep things fairly fast paced, so lean towards a shorter versus a longer meeting and keep things moving. Your team will thank you for getting to a quick conclusion."
 
 - [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - "This is a resource for sharing retrospective plans, tips & tricks, tools and ideas to help us get the most out of our retrospectives. "
