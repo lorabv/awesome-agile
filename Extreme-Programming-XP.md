@@ -1,6 +1,6 @@
 ## Extreme Programming (XP)
 
-- [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/) - by Don Wells. A good place to get started.
+- [Extreme Programming: A Gentle Introduction](http://www.extremeprogramming.org/) - by Don Wells. A good place to get started.
 
 - [Extreme Programming: What Is It And How Do You Use It?](https://airbrake.io/blog/sdlc/extreme-programming) - by Andrew Powell-Morse. Overview of Extreme Programming, the values and principles behind it and what specific procedures to implement when adopting it.
 
