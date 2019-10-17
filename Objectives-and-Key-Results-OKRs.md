@@ -13,3 +13,5 @@
 ### Books
 
 - [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y) - by Christina Wodtke
+
+- [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221) - by John Doerr
