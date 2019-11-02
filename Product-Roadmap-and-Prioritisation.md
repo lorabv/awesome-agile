@@ -1,4 +1,4 @@
-## Product Roadmap and Prioritisation
+## Product Roadmap and Prioritization
 
 - [10 Tips for Creating an Agile Product Roadmap](https://medium.com/@romanpichler/10-tips-for-creating-an-agile-product-roadmap-515637c8081b#.y413bsegz) - by Roman Pichler. "A product roadmap is a powerful tool to describe how a product is likely to grow, to align the stakeholders, and to acquire a budget for developing the product. But creating an effective roadmap is not easy, particularly in an agile context where changes occur frequently and unexpectedly. This post shares ten practical tips to helps you create an actionable agile product roadmap."
 
