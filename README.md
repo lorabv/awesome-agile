@@ -50,6 +50,7 @@ Awesome List of resources on Agile Software Development.
 - [Continuous Delivery](Continuous-Delivery.md)
 - [Continuous Integration](Continuous-Integration.md)
 - [Domain Driven Design (DDD)](Domain-Driven-Design-DDD.md)
+- [Feature Flag Driven Development](Feature-Flag-Driven-Development.md)
 - [InnerSource](InnerSource.md)
 - [Pair Programming](Pair-Programming.md)
 - [Refactoring](Refactoring.md)
