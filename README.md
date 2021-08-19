@@ -101,6 +101,8 @@ Awesome List of resources on Agile Software Development.
 - [Resources Archive - SolutionsIQ](https://www.solutionsiq.com/resource)
 - [Blog – Gamestorming](http://gamestorming.com/blog)
 
+## Books
+- [The Agile Idea: Great management for great code](https://www.manning.com/books/the-agile-idea) - by Zigurd Mednieks (Agile done right gives managers a secret weapon to deliver great software that serves the needs of all business stakeholders.)
 
 ## Contribute Your Favourites
 Please share your favourite agile software development resources (books, articles, videos, podcasts) by adding them to this list. Review the [contributor guidelines](CONTRIBUTING.md) and make a pull request.
