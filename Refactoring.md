@@ -15,3 +15,5 @@
 - [Smells to Refactorings Cheatsheet](https://www.industriallogic.com/blog/smells-to-refactorings-cheatsheet/) - by Industrial Logic
 
 - [The Art of Agile Development: Refactoring](http://www.jamesshore.com/Agile-Book/refactoring.html) - by James Shore
+
+- [Five Lines of Code: How and when to refactor](https://www.manning.com/books/five-lines-of-code) - by Christian Clausen
