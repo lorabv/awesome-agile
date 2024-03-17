@@ -20,7 +20,7 @@ Awesome List of resources on Agile Software Development.
 ## The Fundamentals
 - [Agile Manifesto](http://agilemanifesto.org)
 - [Agile Principles](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto)
-- [Agile Glossary](https://www.solutionsiq.com/agile-glossary)
+- [Agile Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
 - [Agile Mindset](https://www.cio.com.au/article/609763/more-agile-need-mindsets-change)
 - [Periodic Table of Agile Principles and Practices](https://www.niceideas.ch/Agile_table.pdf) - by Jerome Kehrli 
 
