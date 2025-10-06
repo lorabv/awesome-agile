@@ -14,6 +14,7 @@
 
 - [The Cucumber Book. Behaviour-Driven Development for Testers and Developers](https://pragprog.com/book/hwcuc/the-cucumber-book) - by Matt Wynne and Aslak Hellesøy
 - [BDD in Action, Second Edition](https://www.manning.com/books/bdd-in-action-second-edition) - by John Ferguson Smart
+- [Effective Behavior-Driven Development](https://www.manning.com/books/effective-behavior-driven-development) - by Gáspár Nagy & Sebastian Rose
 
 ### Tools
 
