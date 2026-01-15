@@ -14,6 +14,8 @@
 
 - [The Scrum Guide™](http://www.scrumguides.org/scrum-guide.html) - by Ken Schwaber and Jeff Sutherland. The official Scrum Body of Knowledge.
 
+- [Scrum.wiki](https://scrum.wiki) - by Luca Franceschini. Online reference for all Scrum topics.
+
 ### Books
 
 - [Do Better Scrum](https://www.infoq.com/minibooks/do-better-scrum) - by Peter Hundermark. "An unofficial set of tips and insights into how to implement Scrum well."
