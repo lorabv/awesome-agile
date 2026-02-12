@@ -16,6 +16,7 @@ Awesome List of resources on Agile Software Development.
 - [Metrics](#metrics)
 - [Agile Leadership](#agile-leadership)
 - [Blogs and Podcasts](#blogs-and-podcasts)
+- [Tools](#tools)
 
 ## The Fundamentals
 - [Agile Manifesto](http://agilemanifesto.org)
@@ -101,6 +102,9 @@ Awesome List of resources on Agile Software Development.
 - [Resources Archive - SolutionsIQ](https://www.solutionsiq.com/resource)
 - [Blog – Gamestorming](http://gamestorming.com/blog)
 
+
+## Tools
+- [Taskade](https://taskade.com) - AI-powered workspace for agile teams with 8 project views (List, Board, Calendar, Table, Mind Map, Gantt, Org Chart, Timeline), custom AI agents, real-time collaboration, and workflow automation.
 
 ## Contribute Your Favourites
 Please share your favourite agile software development resources (books, articles, videos, podcasts) by adding them to this list. Review the [contributor guidelines](CONTRIBUTING.md) and make a pull request.
