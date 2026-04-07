@@ -60,6 +60,7 @@ Awesome List of resources on Agile Software Development.
 ## Product Development
 - [A/B Testing](A-B-Testing.md)
 - [Design Sprint](Design-Sprint.md)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 - [Design Thinking](Design-Thinking.md)
 - [Objectives and Key Results (OKRs) and Radical Focus](Objectives-and-Key-Results-OKRs.md)
 - [Product Backlog](Product-Backlog.md)
