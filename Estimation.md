@@ -16,6 +16,8 @@
 
 - [Magic Estimation](http://www.barryovereem.com/magic-estimation/) - by Barry Overeem. "What is ‘Magic Estimation’ about? It’s an exercise for the Scrum team to estimate an entire product backlog with story points in a reasonable short amount of time. It’s a useful format to get some insights of the size of a backlog. Is it one month, 3 months or 6 months of work we’re talking about?"
 
+- [Pointly](https://pointly.space/en/planning-poker) (Web app) - "Free planning poker for agile teams with no signup. Rooms open with a 4-character code or link, use a Fibonacci deck with a pause card, and show median, mean, range and distribution on reveal."
+
 - [Pointing Poker](https://www.pointingpoker.com/) (Web app) - "Online, virtual and co-located agile teams use this application during their planning/pointing sessions to effectively communicate points for stories."
 
 - [SE-Radio Episode 273: Steve McConnell on Software Estimation](http://www.se-radio.net/2016/11/se-radio-episode-273-steve-mcconnell-on-software-estimation/) (Podcast) - by SE-Radio. "Sven Johann talks with Steve McConnell about Software Estimation. Topics include when and why businesses need estimates and when they don’t need them; turning estimates into a plan and validating progress on the plan; why software estimates are always full of uncertainties, what these uncertainties are and how to deal with them. They continue with: estimation, planning and monitoring a Scrum project from the beginning to a possible end. They close with estimation techniques in the large (counting, empirical data) and in the small (e.g. poker planning)."
