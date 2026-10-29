@@ -12,6 +12,8 @@
 
 - [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10) - by John Cutler. "In my experience — especially if you stress story splitting practices — you can safely use user story counts instead of story points (to do a variety of jobs)."
 
+- [Estimay](https://estimay.io/) (Web app) - by Daniel Grynyk. "Free, real-time planning poker for agile teams. No sign-up, no accounts: name a room, share the link, estimate."
+
 - [How to become better at software estimations](https://medium.com/code-runners-blog/how-to-become-better-at-software-estimations-part-2-fb286a9d496a) -  by Rumen Manev. "We also introduced a list of phrases that strongly convey something is definitely not done. - “It works, but…” - “It’s done, but I just have a couple of things to finalise.” - “It’s ready, but I haven’t tested it.” - “It’s done, but I need a few more hours to check for edge cases.” - “It’s OK, but there are a lot of conflicts, so I’d probably need a day to merge.” - “It was working before.” - “It works on my machine.” - “It’s ready. (three days later) OK, now it’s ready”"
 
 - [Magic Estimation](http://www.barryovereem.com/magic-estimation/) - by Barry Overeem. "What is ‘Magic Estimation’ about? It’s an exercise for the Scrum team to estimate an entire product backlog with story points in a reasonable short amount of time. It’s a useful format to get some insights of the size of a backlog. Is it one month, 3 months or 6 months of work we’re talking about?"
